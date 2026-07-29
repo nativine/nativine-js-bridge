@@ -402,8 +402,8 @@ if (isNativeApp) {
 ## Requirements
 
 - Nativine app built with template v2.0+
-- Android 7.0+ (API 24+)
-- iOS 14+ (coming soon)
+- Android (API 24+ through latest API 36+)
+- iOS (iOS 14+ through latest iOS versions)
 
 ## License
 
