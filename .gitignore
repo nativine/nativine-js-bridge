@@ -1,0 +1,14 @@
+# Ignore lockfiles and packages
+node_modules/
+package-lock.json
+
+# Ignore system files
+.DS_Store
+*.log
+.DS_Store
+
+# 🚨 STRICTLY IGNORE RAW SOURCE CODE 🚨
+# (Only the compiled dist/ folder will be tracked)
+src/
+rollup.config.js
+tsconfig.json
